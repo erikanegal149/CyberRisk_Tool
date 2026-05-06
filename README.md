@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CyberRisk Assessment Tool
 
 ## О проекте
@@ -44,3 +45,7 @@ python main.py
 ## Важно
 Не менять названия листов Excel — Настройки, Контроли, Риски.
 Не менять структуру 18 контролей в risk_model.py без необходимости.
+=======
+# CyberRisk_Tool
+Diplom project
+>>>>>>> 85fd25cd732c9fdd5b8e14891601f6ac4582fd8b
